@@ -1,0 +1,28 @@
+Welcome to UMBC Anagrammer!
+There are 72 anagrams available in this puzzle.
+Starting Word is: forbidden
+What word would you like to try?
+bid is an anagram of forbidden
+You have guessed 1 of 72 anagrams available.
+What word would you like to try?
+Already guessed
+You have guessed 1 of 72 anagrams available.
+What word would you like to try?
+forbidden is an anagram of forbidden
+You have guessed 2 of 72 anagrams available.
+What word would you like to try?
+for is an anagram of forbidden
+You have guessed 3 of 72 anagrams available.
+What word would you like to try?
+Minimum of 3 characters.
+What word would you like to try?
+broad is NOT an anagram of forbidden
+You have guessed 3 of 72 anagrams available.
+What word would you like to try?
+bod is not a valid word
+You have guessed 3 of 72 anagrams available.
+What word would you like to try?
+den is an anagram of forbidden
+You have guessed 4 of 72 anagrams available.
+What word would you like to try?
+[kpatel38@linux3 ~/Documents]$ 
